@@ -1,0 +1,24 @@
+#main {
+  background-color: #5459a3;
+}
+
+#output1 {
+  height: 30px;
+  width: 200px;
+}
+
+#output2 {
+  height: 30px;
+  width: 200px;
+}
+
+#subMain {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+
+}
+
+#panel2 {
+  margin: auto;
+}
